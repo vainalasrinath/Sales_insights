@@ -1,10 +1,5 @@
 # AtliQ Sales Insights PowerBi Dashboard
 
-This is a project I replicated from Codebasics PowerBi Youtube playlist. You can find the link of the playlist below.
-
-[Codebasics Youtube Playlist](https://youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-
-[Live Report Link](https://www.novypro.com/project/atliq-sales-insights-)
 
 ## Problem statement
 
@@ -23,12 +18,10 @@ visual representation to make data driven decisions. So, he hired a team of data
 
 
 ### AIMS Grid
-
----
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result 
 and success criteria  of our project.
 
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/AIMS.jpg" width="550" class="center">
+
 
 ## Steps Followed in this project
 
@@ -51,10 +44,6 @@ and success criteria  of our project.
 ---
 <img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
 
-#### Interactive dashboard
-
----
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
 
 
 
